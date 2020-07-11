@@ -15,3 +15,15 @@ for k in list2:
     print(k)
 for l in k:
     print(l)
+
+
+
+
+
+new added
+
+
+
+
+
+thanks 
